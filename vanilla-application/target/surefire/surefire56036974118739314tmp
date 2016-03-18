@@ -1,0 +1,6 @@
+#surefire
+#Fri Mar 18 12:29:50 CET 2016
+user.dir=/Users/berndhopp/src/extendability/vanilla-application
+idea.version=2016.1
+localRepository=/Users/berndhopp/.m2/repository
+basedir=/Users/berndhopp/src/extendability/vanilla-application

@@ -1,0 +1,8 @@
+de/vaadin/extendability/vanilla/views/DashboardView.class
+de/vaadin/extendability/vanilla/cdi/MyModule.class
+de/vaadin/extendability/vanilla/MyUI$MyUIServlet.class
+de/vaadin/extendability/vanilla/MyViewContainer.class
+de/vaadin/extendability/vanilla/DefaultDashboard.class
+de/vaadin/extendability/vanilla/MyUI.class
+de/vaadin/extendability/vanilla/ViewSelector.class
+de/vaadin/extendability/vanilla/MyApplication.class
